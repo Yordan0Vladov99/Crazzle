@@ -1,0 +1,19 @@
+.DiscussionForm{
+    margin-top: 10%;
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+    flex-direction: column;
+}
+.DiscussionForm .field-name{
+    font-size: 2rem;
+}
+.DiscussionForm .field-input{
+    font-size: 2rem;
+}
+
+.DiscussionForm button{
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+}
